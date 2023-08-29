@@ -9,23 +9,20 @@ An intelligent, consistent and comprehensive management, monitoring platform fro
 
 # Overview
 Customers have sprawling server-based IT systems deployed in corporate datacenters, hosters, and public-cloud.
-The sprawl is overwhelming, and it is impossible to manage and apply consistent governance, monitoring and security across the environment and meet compliance needs
+The sprawl is overwhelming, and it is becoming more challanging then ever before to manage and apply consistent governance, monitoring and security across the environments and meet all compliance needs. Today customers may also have different tech stacks that they are required to manage in multi cloud enviornments as well. 
 
 # Business requirements
-Out of the box creation of NOC and SOC capabilities in day one. 
-Manage a mix of bare metal, Windows and Linux servers across locations and disparate systems
-Visibility across locations, OS flavors, SQL instances and disparate systems
-Manage, Secure, govern, Monitor environments, SQL workloads, servers, systems via Azure Arc
-Security posture management and threat protection across hybrid cloud resources
-Enable IT to apply at scale governance and security policies across all environments
-Enable application owners to apply and audit to meet their own requirements
-Measure and remediate compliance at scale and down to the individual workload/server 
+How can customers create and deploy a NOC and SOC capabilities out of a box solution in day one via Arc enabled Servers and Arc enabled SQL Server. Customers can manage a mix of bare metal, Windows and Linux servers across locations and disparate systems. With this capability clients can significantly improve their Visibility across locations, OS flavors, SQL instances and disparate systems, Manage, Secure, govern, Monitor environments, SQL workloads, servers, systems via Azure Arc. 
+Security posture management and threat protection across hybrid cloud resources.
+Enable IT teams to apply at scale governance and security policies across all environments
+Enable application owners to apply and audit to meet their own requirements.
+Measure and remediate compliance at scale as well as down to the individual workload/server 
 
 # What is NOC (Network Operation Center)
 “Network Operations Center (NOC) is the centralized platform from which information technology (IT) teams, either internal or outsourced; supervise, monitor, manage, and maintain organization systems, servers, platforms, services, and network.” 
 
-# What is NOC (Network Operation Center)
-“Network Operations Center (NOC) is the centralized platform from which information technology (IT) teams, either internal or outsourced; supervise, monitor, manage, and maintain organization systems, servers, platforms, services, and network.” 
+# What is a SOC (Seurity Operation Center)
+A security operations center (SOC) is responsible for protecting an organization against cyber threats. SOC analysts perform round-the-clock monitoring of an organization’s network and investigate any potential security incidents.
 
 # Arc Cock-Pit NOC & SOC Solutions (All-in-One)
 Intelligently adapt and onboard to best practices.
@@ -36,7 +33,7 @@ Gain central visibility, intelligence, simplification, security, and compliance
 ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/c682206b-64d9-4b31-ac23-78d957292d0b)
 
 Key benefits from Intelligent Arc Cockpit
-Manage and monitor on prem VM, M-Cloud and bare metal environments
+Manage and monitor on prem VM, M-Cloud and bare metal environments.
 Get a unified view of the organization’s IT Servers & Systems, core business services health state, performance view, security posture with Secure Score, Availability SLA, Compliance, Intelligent Dashboards
 Detect and resolve threats with prioritized security alerts for hybrid and public cloud resources
 Collect data at cloud scale – across all resources through Microsoft Sentinel, investigate threats with AI and respond to incidents rapidly.
